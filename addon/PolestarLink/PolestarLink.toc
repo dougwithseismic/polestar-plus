@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Polestar Link
+## Notes: Shows Polestar's current step, quest and arrow as a thin strip of coloured cells along the top edge, for the polestar-plus desktop reader. Read-only: it only calls Polestar's getters.
+## Author: polestar-plus
+## Version: 0.1.0
+## OptionalDeps: Polestar
+## SavedVariablesPerCharacter: PolestarLinkDB
+
+PolestarLink.lua

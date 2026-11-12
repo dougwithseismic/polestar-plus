@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Polestar Next
+## Notes: Shows which ability to use next, and the key it is bound to, worked out from your class, level, known spells, talents, gear and the game's own numbers for each spell. It only shows: it never casts, targets or presses anything.
+## Author: polestar-plus
+## Version: 0.13.0
+## SavedVariablesPerCharacter: PolestarNextDB
+
+Core.lua
+Scan.lua
+Rules.lua
+Numbers.lua
+Classes.lua
+Engine.lua
+Edit.lua
+Display.lua
