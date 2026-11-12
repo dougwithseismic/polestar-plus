@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 296" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" rx="10" fill="#0d1014"/>
+<text x="20" y="30" fill="#ffd100" font-size="17" font-weight="600">Affliction warlock, level 30</text>
+<text x="20" y="50" fill="#9aa3ad" font-size="12">Effects go on once and are kept up; Life Tap when the mana runs low</text>
+<text x="20" y="85" fill="#7d8791" font-size="11">beside a press</text>
+<text x="20" y="119" fill="#7d8791" font-size="11">one press each</text>
+<line x1="150.0" y1="124" x2="150.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="150.0" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="157.0" y="119" fill="#ffffff" font-size="11">Demon Armor</text>
+<line x1="199.0" y1="146" x2="199.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="199.0" y="128" width="97.2" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="206.0" y="141" fill="#ffffff" font-size="11">Bane of Agony</text>
+<rect x="248.0" y="125" width="65.3" height="2" fill="#7fb8ff"/>
+<line x1="248.0" y1="124" x2="248.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="248.0" y="106" width="78.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="255.0" y="119" fill="#ffffff" font-size="11">Corruption</text>
+<rect x="313.3" y="147" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="313.3" y1="146" x2="313.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="313.3" y="128" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="320.3" y="141" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<rect x="411.3" y="125" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="411.3" y1="124" x2="411.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="411.3" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="418.3" y="119" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<rect x="509.3" y="125" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="509.3" y1="124" x2="509.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="509.3" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="516.3" y="119" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<rect x="607.3" y="125" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="607.3" y1="124" x2="607.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="607.3" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="614.3" y="119" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<rect x="705.3" y="125" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="705.3" y1="124" x2="705.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="705.3" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="712.3" y="119" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<rect x="803.3" y="125" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="803.3" y1="124" x2="803.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="803.3" y="106" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="810.3" y="119" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<line x1="901.3" y1="124" x2="901.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="901.3" y="106" width="65.2" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="908.3" y="119" fill="#ffffff" font-size="11">Life Tap</text>
+<rect x="950.3" y="147" width="98.0" height="2" fill="#7fb8ff"/>
+<line x1="950.3" y1="146" x2="950.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="950.3" y="128" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="957.3" y="141" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<line x1="1048.3" y1="124" x2="1048.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="1048.3" y="106" width="65.2" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="1055.3" y="119" fill="#ffffff" font-size="11">Life Tap</text>
+<rect x="1097.3" y="147" width="32.7" height="2" fill="#7fb8ff"/>
+<line x1="1097.3" y1="146" x2="1097.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="1097.3" y="128" width="84.4" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="1104.3" y="141" fill="#ffffff" font-size="11">Shadow Bolt</text>
+<line x1="150" y1="178" x2="1130" y2="178" stroke="#56606b"/>
+<line x1="150.0" y1="178" x2="150.0" y2="183" stroke="#56606b"/>
+<text x="153.0" y="193" fill="#7d8791" font-size="10">0s</text>
+<line x1="313.3" y1="178" x2="313.3" y2="183" stroke="#56606b"/>
+<text x="316.3" y="193" fill="#7d8791" font-size="10">5s</text>
+<line x1="476.7" y1="178" x2="476.7" y2="183" stroke="#56606b"/>
+<text x="479.7" y="193" fill="#7d8791" font-size="10">10s</text>
+<line x1="640.0" y1="178" x2="640.0" y2="183" stroke="#56606b"/>
+<text x="643.0" y="193" fill="#7d8791" font-size="10">15s</text>
+<line x1="803.3" y1="178" x2="803.3" y2="183" stroke="#56606b"/>
+<text x="806.3" y="193" fill="#7d8791" font-size="10">20s</text>
+<line x1="966.7" y1="178" x2="966.7" y2="183" stroke="#56606b"/>
+<text x="969.7" y="193" fill="#7d8791" font-size="10">25s</text>
+<line x1="1130.0" y1="178" x2="1130.0" y2="183" stroke="#56606b"/>
+<text x="1133.0" y="193" fill="#7d8791" font-size="10">30s</text>
+<text x="20" y="213" fill="#9aa3ad" font-size="11">Demon Armor</text>
+<rect x="150.0" y="204" width="980.0" height="9" rx="2" fill="#73d980" fill-opacity="0.8"/>
+<text x="20" y="235" fill="#9aa3ad" font-size="11">Bane of Agony</text>
+<rect x="199.0" y="226" width="784.0" height="9" rx="2" fill="#e5675a" fill-opacity="0.8"/>
+<text x="20" y="257" fill="#9aa3ad" font-size="11">Corruption</text>
+<rect x="248.0" y="248" width="653.3" height="9" rx="2" fill="#e5675a" fill-opacity="0.8"/>
+<text x="20" y="286" fill="#56606b" font-size="10">0 mana a second, 1 enemy. Drawn from the planner&#x27;s own output; not a game screenshot.</text>
+</svg>

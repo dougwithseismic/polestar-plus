@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 252" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" rx="10" fill="#0d1014"/>
+<text x="20" y="30" fill="#ffd100" font-size="17" font-weight="600">Combat rogue, level 30</text>
+<text x="20" y="50" fill="#9aa3ad" font-size="12">Energy, a one-second global cooldown, combo points built and spent</text>
+<text x="20" y="85" fill="#7d8791" font-size="11">beside a press</text>
+<text x="20" y="119" fill="#7d8791" font-size="11">one press each</text>
+<rect x="150.0" y="72" width="52.4" height="18" rx="4" fill="#1b222b" stroke="#3a4552"/>
+<text x="157.0" y="85" fill="#c8d0d8" font-size="11">Attack</text>
+<line x1="150.0" y1="124" x2="150.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="150.0" y="106" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="157.0" y="119" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="182.7" y1="146" x2="182.7" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="182.7" y="128" width="103.6" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="189.7" y="141" fill="#ffffff" font-size="11">Slice and Dice</text>
+<line x1="215.3" y1="168" x2="215.3" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="215.3" y="150" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="222.3" y="163" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="346.0" y1="124" x2="346.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="346.0" y="106" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="353.0" y="119" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="476.7" y1="124" x2="476.7" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="476.7" y="106" width="103.6" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="483.7" y="119" fill="#ffffff" font-size="11">Slice and Dice</text>
+<line x1="574.7" y1="146" x2="574.7" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="574.7" y="128" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="581.7" y="141" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="721.7" y1="124" x2="721.7" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="721.7" y="106" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="728.7" y="119" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="868.7" y1="124" x2="868.7" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="868.7" y="106" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="875.7" y="119" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="983.0" y1="124" x2="983.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="983.0" y="106" width="78.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="990.0" y="119" fill="#ffffff" font-size="11">Eviscerate</text>
+<line x1="1130.0" y1="124" x2="1130.0" y2="178" stroke="#ffd100" stroke-opacity="0.18"/>
+<rect x="1130.0" y="106" width="110.0" height="18" rx="4" fill="#232b35" stroke="#ffd100" stroke-opacity="0.55"/>
+<text x="1137.0" y="119" fill="#ffffff" font-size="11">Sinister Strike</text>
+<line x1="150" y1="178" x2="1130" y2="178" stroke="#56606b"/>
+<line x1="150.0" y1="178" x2="150.0" y2="183" stroke="#56606b"/>
+<text x="153.0" y="193" fill="#7d8791" font-size="10">0s</text>
+<line x1="313.3" y1="178" x2="313.3" y2="183" stroke="#56606b"/>
+<text x="316.3" y="193" fill="#7d8791" font-size="10">5s</text>
+<line x1="476.7" y1="178" x2="476.7" y2="183" stroke="#56606b"/>
+<text x="479.7" y="193" fill="#7d8791" font-size="10">10s</text>
+<line x1="640.0" y1="178" x2="640.0" y2="183" stroke="#56606b"/>
+<text x="643.0" y="193" fill="#7d8791" font-size="10">15s</text>
+<line x1="803.3" y1="178" x2="803.3" y2="183" stroke="#56606b"/>
+<text x="806.3" y="193" fill="#7d8791" font-size="10">20s</text>
+<line x1="966.7" y1="178" x2="966.7" y2="183" stroke="#56606b"/>
+<text x="969.7" y="193" fill="#7d8791" font-size="10">25s</text>
+<line x1="1130.0" y1="178" x2="1130.0" y2="183" stroke="#56606b"/>
+<text x="1133.0" y="193" fill="#7d8791" font-size="10">30s</text>
+<text x="20" y="213" fill="#9aa3ad" font-size="11">Slice and Dice</text>
+<rect x="182.7" y="204" width="588.0" height="9" rx="2" fill="#73d980" fill-opacity="0.8"/>
+<text x="20" y="242" fill="#56606b" font-size="10">10 energy a second, 1 enemy. Drawn from the planner&#x27;s own output; not a game screenshot.</text>
+</svg>

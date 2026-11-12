@@ -1,0 +1,13 @@
+Use Battle Shout when you do not have it.
+Use Bloodrage when you have a target, rage is under 20 and your health is 50% or more (as far as the game shows).
+Use Attack when you have a target. It is switched on once and left on.
+Use Bloodrage when you are fighting something, rage is under 20 and your health is 50% or more (as far as the game shows).
+Use Thunder Clap when you are fighting something, 2 or more enemies are in reach and it is not on the target.
+Use Execute when you have a target and the target's health is under 20% (as far as the game shows).
+Use Overpower when you have a target. It answers a dodge, block or parry: it comes up when the game lights it.
+Use Revenge when you have a target. It answers a dodge, block or parry: it comes up when the game lights it.
+Use Sunder Armor when you are fighting something and either it is stacked fewer than 5 times or it has under 4.5 seconds left.
+Use Thunder Clap when you are fighting something, the target is elite and it is not on the target.
+Use Rend when you are fighting something, it is not on the target and the target's health is 35% or more (as far as the game shows).
+Use Sunder Armor when you are fighting something, the target is elite and rage is 30 or more.
+Use Heroic Strike when you are fighting something and rage is 30 or more. It is switched on once and left on.

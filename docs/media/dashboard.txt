@@ -1,0 +1,15 @@
+Polestar  ·  Aldric (14)  ·  The Barrens, The Crossroads
+
+Guide   The Barrens   40/163 done (25%)
+Step    15 of 160   The Crossroads
+Quest   Plainstrider Menace  [844]
+Goals
+    ✓ Accept Plainstrider Menace
+  ▶ • Kill Plainstriders  3/7  (at Sergra Darkthorn  ·  kill Greater Plainstrider or Ornery Plainstrider)
+    · Turn in Plainstrider Menace
+Note    Sell junk first. Then head out.
+
+Arrow   ↗  on the way  ·  turn right 45°  ·  312 yd along the path  ·  bearing 045° NE
+Route   Turn right in 302 yd
+Target  Plainstriders (kill)  ·  52.2, 31.0 in The Barrens  ·  300 yd straight, bearing 000° N
+You     52.1, 30.1  ·  facing 270° W
