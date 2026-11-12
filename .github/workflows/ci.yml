@@ -1,0 +1,32 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: windows-latest
+    env:
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - name: Build
+        run: cargo build --release
+      - name: Rust tests
+        run: cargo test --release
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Lua for the stand-in game
+        run: pip install "lupa>=2.2"
+      - name: PolestarLink in a stand-in game, read back by the binary
+        run: python tests/addon_strip.py
+      - name: Polestar Next in a stand-in game
+        run: python tests/next_addon.py
